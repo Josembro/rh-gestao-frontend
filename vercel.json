@@ -1,8 +1,0 @@
-{
-  "projects": [
-    {
-      "src": "rh-gestao-frontend",
-      "use": "@vercel/next"
-    }
-  ]
-}
